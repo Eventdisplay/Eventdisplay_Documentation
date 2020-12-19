@@ -78,4 +78,8 @@ Tools to convert event lists into DL2 or DL3 format are collected in the convert
 - for **CTA** (DL2): <https://github.com/Eventdisplay/Converters>
 - for **VERITAS** (DL3, private repository): <https://github.com/VERITAS-Observatory/V2DL3>
 
+## Publications and presentations
+
+Maier, G.; Holder, J., Eventdisplay: An Analysis and Reconstruction Package for Ground-based Gamma-ray Astronomy, 35th International Cosmic Ray Conference. 10-20 July, 2017. Bexco, Busan, Korea, Proceedings of Science, Vol. 301. Online at [https://pos.sissa.it/cgi-bin/reader/conf.cgi?confid=301], id.747 [https://arxiv.org/abs/1708.04048]
+
 
