@@ -3,16 +3,15 @@
 Eventdisplay is a reconstruction and analysis pipline for data of Imaging Atmospheric Cherenkov Telescopes (IACT). 
 It has been primarily developed for VERITAS and CTA analysis.
 
-Eventdisplay is in use since roughly 2004 and a rather complex ecosystem grew over the years around the core code base.
-This repository collects documentations and links to further resources depending on the application case.
-
-It should be clear that reconstruction and analysis can be complex, as it requires inputs from different sources and execution of several indedependent stages.
+Eventdisplay is in use since roughly 2004 and an ecosystem grew over the years around the core code base.
+Reconstruction and analysis can be complex; it requires inputs from different sources and execution of several indedependent stages.
+This repository collects documentations and links to resources required for the use of the code depending on the application case.
 
 ## The Eventdisplay Ecosystem
 
 Eventdisplay has been developed for the analysis of VERITAS and only later adapted for other instruments.
-Some repositories below are internal to VERITAS and not accessible to the general public.
-There are also differences between the Eventdisplay code applied in VERITAS and that made available in the
+Some repositories described below are internal to VERITAS and not accessible to the general public.
+There are differences between the Eventdisplay code applied in VERITAS and that made available in the
 public repository (see below).
 
 ### Code, tools, library
